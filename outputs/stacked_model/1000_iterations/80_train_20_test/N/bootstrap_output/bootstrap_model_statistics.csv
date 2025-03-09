@@ -1,0 +1,12 @@
+Test Data Statistics:
+
+Mean r2-val = 0.822
+Median r2-val = 0.845
+Max r2-val = 0.986
+St dev. r2-val = 0.1
+
+Mean nrmse = 0.138
+Median nrmse = 0.135
+Min nrmse = 0.041
+St dev. nrmse = 0.038
+
