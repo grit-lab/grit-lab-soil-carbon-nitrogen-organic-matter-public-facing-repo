@@ -73,6 +73,15 @@ of iterations and the same split ratio, the randomness in sample selection can l
 variations in the final output each time the program is run.
 
 
-## Author
+## Citations
+When incorporating the provided data or code, please cite it as:
 
+Nur, N. B. (2025). Supporting Data & Code for "Mapping Soil Organic Matter, Total Carbon, and Total Nitrogen in Salt Marshes Using UAS-Based Hyperspectral Imaging" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14994443
+
+And reference the original article published in the Journal of Geophysical Research - Biogeosciences as:
+
+Nur, N. B., Bachmann, C. M., Tyler, A. C., Miller, A., Khan, S., Union, K. E., et al. (2025). Mapping soil organic matter, total carbon, and total nitrogen in salt marshes using UAS‐based hyperspectral imaging. Journal of Geophysical Research: Biogeosciences, 130, e2024JG008421. https://doi.org/10.1029/2024JG008421
+
+
+## Author
 Nayma Nur
